@@ -283,7 +283,10 @@
         "ConfirmBackup": "Confirm backup",
         "BackupOrContinueUpdate": "It's recommended that you backup the contents of your radio before updating. Would you like to go to the backup page or continue updating?",
         "GoToBackup": "Go to backup page",
-        "ContinueUpdaing": "Continue updating"
+        "ContinueUpdaing": "Continue updating",
+        "CheckingComponentsVersion": "Checking components version ...",
+        "ComponentsNeedToBeUpdated": "Components need to be updated",
+        "UpdateComponentToVersion": "Component {{ component }} needs to be updated to version {{ version }}"
     },
     "RFModule": {
         "RFModule": "Módulo RF",

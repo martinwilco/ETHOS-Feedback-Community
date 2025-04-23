@@ -282,7 +282,10 @@
         "ConfirmBackup": "请确认备份",
         "BackupOrContinueUpdate": "我们强烈建议在升级遥控器前对遥控器中的内容进行备份, 你需要前往备份页面还是继续升级?",
         "GoToBackup": "前往备份页面",
-        "ContinueUpdaing": "继续升级"
+        "ContinueUpdaing": "继续升级",
+        "CheckingComponentsVersion": "Checking components version ...",
+        "ComponentsNeedToBeUpdated": "Components need to be updated",
+        "UpdateComponentToVersion": "Component {{ component }} needs to be updated to version {{ version }}"
     },
     "RFModule": {
         "RFModule": "射频模块",

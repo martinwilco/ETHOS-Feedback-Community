@@ -281,7 +281,10 @@
         "ConfirmBackup": "Zálohovat?",
         "BackupOrContinueUpdate": "Před aktualizací se doporučuje zálohovat obsah rádia. Chcete přejít na zálohování nebo pokračovat v aktualizaci?",
         "GoToBackup": "Na zálohování",
-        "ContinueUpdaing": "Aktualizovat"
+        "ContinueUpdaing": "Aktualizovat",
+        "CheckingComponentsVersion": "Checking components version ...",
+        "ComponentsNeedToBeUpdated": "Components need to be updated",
+        "UpdateComponentToVersion": "Component {{ component }} needs to be updated to version {{ version }}"
     },
     "RFModule": {
         "RFModule": "RF modul",

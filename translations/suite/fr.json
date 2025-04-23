@@ -282,7 +282,10 @@
         "ConfirmBackup": "Confirmer sauvegarde ?",
         "BackupOrContinueUpdate": "Sauvegarde conseillée avant une mise à jour. Aller à la page de sauvegarde ou continuer ?",
         "GoToBackup": "Vers la page Sauvegarde",
-        "ContinueUpdaing": "Poursuivre la mise à jour"
+        "ContinueUpdaing": "Poursuivre la mise à jour",
+        "CheckingComponentsVersion": "Checking components version ...",
+        "ComponentsNeedToBeUpdated": "Components need to be updated",
+        "UpdateComponentToVersion": "Component {{ component }} needs to be updated to version {{ version }}"
     },
     "RFModule": {
         "RFModule": "Module RF",
@@ -330,7 +333,7 @@
         "AnalysingComponents": "Analyse des éléments ...",
         "BackupNotMatchRadio": "Cette sauvegarde ne correspond pas à votre radio. Continuer ?",
         "WritingBackupFile": "Ecriture sauvegarde en cours ...",
-        "CreateAtVersion": "Create at version"
+        "CreateAtVersion": "Créer avec la version"
     },
     "About": {
         "About": "A propos",
@@ -471,7 +474,7 @@
         "InstallLatest": "Installer dernière verison",
         "Reinstall": "Reinstaller",
         "ScriptInfo": "Information Script",
-        "TheEntireZip": "The entire zip file"
+        "TheEntireZip": "Le fichier ZIP complet"
     },
     "Updater": {
         "NewVersionAvailable": "Nouvelle version de Suite {{ version }} disponible !",
