@@ -275,7 +275,7 @@
         "LastUpdatedAt": "Ultimo aggiornamento del",
         "TestingVersion": "Versione di Test",
         "GoToModuleManager": "Vai al manager modulo",
-        "GoToDownloadCenter": "Vai al download center",
+        "GoToDownloadCenter": "Vai al centro download",
         "LatestBootloaderRequired": "Ultimo bootloader richiesto!",
         "ConfirmUpdateBootloaderFirstly": "Il Firmware di questa release richiede l'aggiornamento del bootloader. O la radio non funzionerà correttamente. Confermi l'aggiornamento del bootloader per prima cosa?",
         "ConfirmBackup": "Conferma backup",
@@ -283,8 +283,8 @@
         "GoToBackup": "Vai alla pagina di backup",
         "ContinueUpdaing": "Continua aggiornamento",
         "CheckingComponentsVersion": "Controllo versione componenti ...",
-        "ComponentsNeedToBeUpdated": "Components need to be updated",
-        "UpdateComponentToVersion": "Component {{ component }} needs to be updated to version {{ version }}"
+        "ComponentsNeedToBeUpdated": "I componenti necessitano aggiornamento",
+        "UpdateComponentToVersion": "Componente {{ component }} deve essere aggiornato alla versione {{ version }}"
     },
     "RFModule": {
         "RFModule": "Modulo RF",
@@ -505,5 +505,8 @@
         "Sensors": "Sensori",
         "VTX": "VTX",
         "Radio": "Radio"
+    },
+    "Simulator": {
+        "EthosSimulator": "Ethos simulator"
     }
 }

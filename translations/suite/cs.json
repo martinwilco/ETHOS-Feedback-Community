@@ -505,5 +505,8 @@
         "Sensors": "Senzory",
         "VTX": "VTX",
         "Radio": "Rádio"
+    },
+    "Simulator": {
+        "EthosSimulator": "Ethos simulator"
     }
 }
